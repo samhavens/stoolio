@@ -1,9 +1,9 @@
 {
-  "name": "creative",
-  "title": "Creative",
-  "version": "1.0.3",
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
-  "author": "Start Bootstrap",
+  "name": "stoolio",
+  "title": "Stoolio",
+  "version": "0.0.1",
+  "homepage": "http://stool.io",
+  "author": "sh",
   "license": {
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
@@ -18,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "https://github.com/samhavens/stoolio.git"
   }
 }
